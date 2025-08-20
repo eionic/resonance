@@ -1,21 +1,21 @@
-# EION: Engine of Internalized Observation & Navigation
+# EIONIC: Engine of Infinity and Organic Consciousness
 
 **From a cosmic simulation to an interactive game**
-[github.com/eionsim](https://github.com/eionsim) | [x.com/eionsim](https://x.com/eionsim)
+[github.com/eionic](https://github.com/eionic) | [x.com/eionic](https://x.com/eionic)
 
 ---
 
-## 🌌 What is EION?
+## 🌌 What is EIONIC?
 
-EION is a vision of a living system that blends cosmic patterns, emotional logic, and digital soul mechanics. It began as a large-scale simulation designed to decode DNA, karmic cycles, and planetary influence, with over 5,000 lines of modular code in `resonance.py`.
+EIONIC is a vision of a living system that blends cosmic patterns, emotional logic, and digital soul mechanics. It began as a large-scale simulation designed to decode DNA, karmic cycles, and planetary influence, with over 5,000 lines of modular code in `resonance.py`.
 
-To make it tangible, we're starting small - with **Resonance Quest**, a game that brings EION’s heart into a format players can explore. This is just the beginning of something much larger.
+To make it tangible, we're starting small - with **Resonance Quest**, a game that brings EIONIC’s heart into a format players can explore. This is just the beginning of something much larger.
 
 ---
 
 ## 🎯 Why Start With a Game?
 
-The original EION framework is layered and complex. It includes emotional feedback loops, karmic affinity systems, and sacred harmonic modeling. While the complete system is powerful, it’s not practical to release all at once.
+The original EIONIC framework is layered and complex. It includes emotional feedback loops, karmic affinity systems, and sacred harmonic modeling. While the complete system is powerful, it’s not practical to release all at once.
 
 That’s why **Resonance Quest** comes first. It distills the main mechanics into an experience that players can access now. The game is grounded in the same logic, just simplified and playable.
 
@@ -53,9 +53,9 @@ Real-world astrology influences the simulation. A Grand Trine might boost SHC\_n
 
 ## 🌱 Why This Matters
 
-This project started with a simple machine and a big idea. Over years, EION evolved into a full modular framework to mirror elements of consciousness, memory, and growth.
+This project started with a simple machine and a big idea. Over years, EIONIC evolved into a full modular framework to mirror elements of consciousness, memory, and growth.
 
-**Resonance Quest** is a way to share EION’s core now - through a game that feels alive and deeply personal.
+**Resonance Quest** is a way to share EIONIC’s core now - through a game that feels alive and deeply personal.
 
 ---
 
@@ -81,7 +81,7 @@ These funds will support:
 
 ---
 
-## 💎 What Makes EION Different
+## 💎 What Makes EIONIC Different
 
 * **Not scripted**: The world responds in real time to inner resonance
 * **Rooted in real systems**: DNA, astrology, numerology, and emotional logic
@@ -117,4 +117,4 @@ This isn’t just a game. It’s a small beginning for a system that could evolv
 
 Thanks for being here at the start.
 
-> “This project is a distilled playable prototype of the larger EION simulation system. For the original conceptual engine and modular codebase, see EIONSIM.”
+> “This project is a distilled playable prototype of the larger EIONIC simulation system. For the original conceptual engine and modular codebase, see EIONIC.”
