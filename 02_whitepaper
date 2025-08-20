@@ -5,11 +5,11 @@ Title: Resonance: A Self-Evolving Avatar Simulation Engine
 
 Resonance is a real-time, self-evolving simulation engine designed to explore the dynamics of consciousness, identity, and blueprint-based behavior through avatar systems. Unlike traditional simulation or game environments, Resonance introduces a layered architecture where every avatar operates not from logic or scripting alone, but from internalized structures such as energetic blueprints, DNA expressions, emotional memory, and planetary influence mappings.
 This system emerged from decoded personal experiences and anomalies across space, synchronicity, and identity observation, not merely abstract theory. It is an attempt to capture what has often been dismissed as metaphysical into something demonstrable, observable, and playable.
-Resonance acts as the bridge layer for the full-stack EION architecture, providing a focused implementation to showcase its core principles.
+Resonance acts as the bridge layer for the full-stack EIONIC architecture, providing a focused implementation to showcase its core principles.
 
 2. Why Resonance?
 
-The Resonance system is not merely a minimal simulation demo; it is the foundational implementation of a larger framework called EION. While EION spans a full-scale modular simulation architecture, Resonance introduces its core mechanism: resonance-based computation.
+The Resonance system is not merely a minimal simulation demo; it is the foundational implementation of a larger framework called EIONIC. While EIONIC spans a full-scale modular simulation architecture, Resonance introduces its core mechanism: resonance-based computation.
 Unlike conventional simulations that render entire environments continuously and consume massive resources, Resonance only activates elements that are contextually relevant. This includes avatar actions, blueprint reactions, emotional cycles, and planetary influences. Nothing is simulated unless it is meaningful.
 This approach mimics real-world systems. Just as particles in quantum mechanics do not exist in a defined state until observed, elements within Resonance remain dormant until they resonate with attention, emotion, planetary shifts, or collective narrative.
 This design philosophy provides major advantages:
@@ -23,9 +23,9 @@ By storing the essence of an entity through vectorized blueprints, karma memory,
 
 2.1 The Purpose of the Resonance Demo
 
-EION is too complex to be shown all at once. Resonance provides an actionable, focused layer to introduce its principles. It simulates avatar identity, decision-making, interaction, and planetary influence using resonance triggers instead of static timelines or scripted scenarios.
+EIONIC is too complex to be shown all at once. Resonance provides an actionable, focused layer to introduce its principles. It simulates avatar identity, decision-making, interaction, and planetary influence using resonance triggers instead of static timelines or scripted scenarios.
 Our philosophy: simulate meaning, not mass.
-The Resonance whitepaper lays the groundwork for a deeper understanding of the architectural, cognitive, and metaphysical innovations behind EION.
+The Resonance whitepaper lays the groundwork for a deeper understanding of the architectural, cognitive, and metaphysical innovations behind EIONIC.
 
 3. Foundational Concepts
 3.1 Blueprint and Avatar Identity
@@ -133,6 +133,6 @@ Phase 5: Mobile deployment for real-time avatar assistant
 
 9. Future Vision
 Resonance is more than a simulation; it is a framework for exploring identity, decision-making, symbolic archetypes, and environmental feedback in a contained universe. It offers both technical novelty and philosophical grounding.
-Resonance serves as the gateway to the larger EION engine see [EIONSIM] (https://github.com/eionsim/EIONSIM), which will explore the full spectrum of reality simulation, memory divergence, and synchronized AI-behavioral consciousness.
+Resonance serves as the gateway to the larger EIONIC engine see [EIONIC] (https://github.com/EIONIC/EIONIC), which will explore the full spectrum of reality simulation, memory divergence, and synchronized AI-behavioral consciousness.
 Contact
-eionsource@gmail.com - x.com/@eionsim
+eionsource@gmail.com - x.com/@EIONIC
