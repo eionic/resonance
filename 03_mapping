@@ -1,9 +1,9 @@
-While Resonance is a standalone simulation and game, it was born from a larger framework called EION. The dependency map below outlines the complete EION system, which includes modules not active in Resonance.
+While Resonance is a standalone simulation and game, it was born from a larger framework called EIONIC. The dependency map below outlines the complete EIONIC system, which includes modules not active in Resonance.
 Resonance activates only a subset of these modules:
 *GENVEC_F and blueprint engine
 *Basic planetary and numerology influence
 *Karma memory and SHC_n
-Modules such as SAL (Simulated Active Layer), Deep Archetypal Logic, and Observer Interface are exclusive to the full EION vision and are not part of the Resonance prototype.
+Modules such as SAL (Simulated Active Layer), Deep Archetypal Logic, and Observer Interface are exclusive to the full EIONIC vision and are not part of the Resonance prototype.
 
 graph TD
     subgraph Modul_0_Genesis
